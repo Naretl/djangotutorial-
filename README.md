@@ -1,2 +1,2 @@
 # djangotutorial-
-This is my first djngo app. still learning. stay tuned
+This is my first django app. still learning. stay tuneds
